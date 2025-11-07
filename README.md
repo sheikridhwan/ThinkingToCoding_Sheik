@@ -1,3 +1,5 @@
 # ThinkingToCoding_Sheik
 
-LOGIC SUMMERY
+LOGIC SUMMERY 
+in this
+
